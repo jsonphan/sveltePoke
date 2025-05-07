@@ -1,1 +1,1 @@
-<h1>Welcome to admin</h1>
+<h1>PokeStore</h1>

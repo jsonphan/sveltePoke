@@ -1,5 +1,13 @@
-<h1>PokeSvelte</h1>
-<p>
-  Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the
-  documentation
-</p>
+<h1>Tryna buy some Poke?</h1>
+
+<a href="/admin" rel="external">Click here!</a>
+
+<style>
+  :global(body) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+  }
+</style>
