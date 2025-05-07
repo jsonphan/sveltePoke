@@ -1,9 +1,11 @@
-<h1>Tryna buy some Poke?</h1>
+<div class="home">
+  <h1>Tryna buy some Poke?</h1>
 
-<a href="/admin" rel="external">Click here!</a>
+  <a href="/admin" rel="external">Click here!</a>
+</div>
 
 <style>
-  :global(body) {
+  .home {
     display: flex;
     align-items: center;
     justify-content: center;
